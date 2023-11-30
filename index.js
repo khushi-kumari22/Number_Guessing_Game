@@ -1,4 +1,4 @@
-/*         Number Guessing Game              
+/*         Number Guessing Game     */         
 
 let a = Math.random()*100;
 a = Number.parseInt(a)
@@ -22,7 +22,3 @@ while(guess!=a){
      console.log("Enter number between 1 to 100")
   }
 }
-
-*/
-
-let guess 
